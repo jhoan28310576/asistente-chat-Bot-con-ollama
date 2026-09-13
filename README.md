@@ -1,5 +1,6 @@
-# asistente chat Bot  con ollama
-asistente IA con inteligencia  de modelo ollama 
+# asistente chat con ollama
+
+asistente IA con inteligencia  de modelo local ollama 
 
 v2 test 1
 
